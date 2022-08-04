@@ -1,5 +1,5 @@
 # Face-Recognition-ML-Project
-# Final Project for class EE250 Spring 2022
+### Final Project for class EE250 Spring 2022
 
 Run main.py and main_try.py on local computer
 
