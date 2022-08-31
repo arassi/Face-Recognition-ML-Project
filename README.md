@@ -4,7 +4,7 @@
 
 Run `main.py` and `main_train.py` on local computer
 
-Run `rpy.py` on RaspberryPi after setting it up with GrovePi
+Run `rpi.py` on RaspberryPi after setting it up with GrovePi
 
 ### Python libraries used:
 Pandas, Numpy, Matplotlib, OpenCV, GrovePi
